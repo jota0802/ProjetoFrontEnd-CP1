@@ -1,9 +1,9 @@
 const Footer =()=> {
     return(
         <>
-        <h1>
+        <h5>
             @2024 - Todos Direitos Reservados - SportMax
-        </h1>
+        </h5>
         </>
     )
 }
