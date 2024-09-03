@@ -1,15 +1,17 @@
-import { Link } from "react-router-dom";
+
 import { NavStyle } from "../css/NavStyle";
+import { Link } from "react-router-dom";
 
 const Nav =()=>{
 
     return(
         <NavStyle>
             <section className="nav">
-                <link to ='/' className="navlink">Home</link>
-                <link to ='/Produtos' className="navlink">Produtos</link>
-                <link to ='/Contato' className="navlink">Contato</link>
-                <link to ='/Sobre' className="navlink">Sobre</link>
+                <h1 className="Marca">SportMax</h1>
+                <Link to ='/' className="navlink">Home</Link>
+                <Link to ='/Produtos' className="navlink">Produtos</Link>
+                <Link to ='/Contato' className="navlink">Contato</Link>
+                <Link to ='/Sobre' className="navlink">Sobre</Link>
             </section>
         </NavStyle>
     )
