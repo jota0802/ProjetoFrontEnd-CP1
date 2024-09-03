@@ -1,13 +1,13 @@
-import { HomeStyle } from "../css/ProdutosStyle";
+import { HomeStyle } from "../css/HomeStyle";
 
 const Home =()=> {
     return (
-        <ProdutosStyle>
-            <section className="Produtos">
-                <h1>Oba</h1>
+        <HomeStyle>
+            <section className="Home">
+                <h1>Home</h1>
             </section>
 
-        </ProdutosStyle>
+        </HomeStyle>
     )
 
 }
