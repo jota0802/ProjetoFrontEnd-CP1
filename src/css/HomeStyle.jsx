@@ -4,6 +4,6 @@ export const HomeStyle = styled.section `
 
     width: 100%;
     height: 100vh;
-    background-color: #153147;
+    background-color: #ADB8BB;
 
 `

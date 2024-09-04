@@ -8,23 +8,21 @@ export const NavStyle = styled.section `
     width: 100%;
     height: 14vh;
     position: fixed;
-    background-color: #232A2F;
+    background-color: #153147;
     list-style: none;
-    display: inline-flex; /*coloca tudio em uma linha unica */
+    display: flex;
     align-items: center;
-    
+    flex-grow: 1;
+    padding: 20px;
 }
 
 .navlink{
     text-decoration:none;
-    justify-content:space-between;
-    padding: 30px;
-    margin-left: 240px;
+    margin-left: 280px;
     font-size: 20px;
     color:#ffff;
     transition: 0.3s ease-in-out;
-
-    
+    justify-content:center;
 }
 
 .navlink:hover{
