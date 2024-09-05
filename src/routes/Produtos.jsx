@@ -17,27 +17,26 @@ const Produtos =()=> {
                     <img src={imagem3} className="imagem" />
                     <p>Bolsa Nike Brasilia Xs Duff 9.5</p>
                     <p className="preco">R$ 350,99</p>
-                    <a href="" class='btn'>Compre</a>
+                    <a href="" class='btn'><h2 className="compre">Compre</h2></a>
 
                 </nav>
                 <nav className="produto">
                     <img src={imagem4} className="imagem"/>
                     <p>Squeeze ASICS Aço Inoxidável 750 ml</p>
                     <p className="preco">R$ 75,90</p>
-                    <a href="" class='btn'>Compre</a>
+                    <a href="" class='btn'><h2 className="compre">Compre</h2></a>
                 </nav>
                 <nav className="produto">
                     <img src={imagem1} className="imagem" />
                     <p>Bola de Tênis Head Pro X 3</p>
                     <p className="preco">R$ 70,90</p>
-                    <a href="" class='btn'>Compre</a>
+                    <a href="" class='btn'><h2 className="compre">Compre</h2></a>
                 </nav>
                 <nav className="produto">
                     <img src={imagem2} className="imagem" />
                     <p>Raquete de Tennis PPR130 Outdoor Pongori</p>
                     <p className="preco">R$ 190,50</p>
-                    <a href="" class='btn'>Compre</a>
-                    
+                    <a href="" class='btn'><h2 className="compre">Compre</h2></a>
                 </nav>
             </section>
 

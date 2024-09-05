@@ -52,6 +52,13 @@ p{
     font-size: 14px;
     font-weight: 700;
 }
+h2{
+    text-align: center;
+    font-size: 16px;
+    transition: 0.4s ease-in-out;
+    font-weight: 900;
+    
+}
 .preco{
     font-size: 18px;
     font-weight: 400;
@@ -64,12 +71,14 @@ p{
     background-color: #eee6d2;
     border-bottom-left-radius: 20px; 
     border-bottom-right-radius: 20px;
-    transition: 0.3s ease-in-out;
+    transition: 0.2s ease-in-out;
     color: black;
 }
-
 .btn:hover{
     background-color: #f9f8f7;
 }
-
+.btn:hover h2{
+    scale: 1.03;
+    font-weight: 900;
+}
 `
