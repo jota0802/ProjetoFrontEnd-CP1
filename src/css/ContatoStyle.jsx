@@ -5,42 +5,56 @@ export const ContatoStyle = styled.section `
         height: 98vh;
         background-color: #ADB8BB;
 
+section{
+        display: flex;
+        justify-content:center;
+}
 .Contato_titulo{
         display:flex;
+        align-items: center;
         justify-content: center;
-        margin-top: 24vh;
-        font-size: 26px;
+        margin-top: 18vh;
+        font-size: 30px;
 }
-
+h1 {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding-right: 6vh;
+}
+i{
+        font-size: 30px;
+}
 .Contato_box{
-        z-index: 2;
         display: flex;
         flex-direction:column;
-        width: 60vh;
-        height: 35vh;
-        margin-top: 10vh;
-        margin-left: 75vh; 
-        padding-top:4vh;
         align-items: center;
+        justify-content: center;
+        width: 60vh;
+        height: 60vh;
+        margin-top: 2vh;
         background-color: #153147;
         color: #ffffff;
-        list-style: none;
         border-radius: 20px;
+        box-shadow: 8px 8px 20px rgba(0, 0, 0, 0.3);
 }
 
 .Formulario{
-        justify-content:space-evenly;
-        font-size: 3vh;
         display: flex;
         flex-direction:column;
+        justify-content:space-evenly;
+        font-size: 3vh;
+}
+label{
+        padding: 20px;
 }
 
 .Button{
-        margin-top: 25px;
+        margin-top: 24px;
         display: flex;
         justify-content: center;
         align-items: center;
-        padding: 7px;
+        padding: 6px;
         border-radius: 5px ;
         font-size: 20px;
         background-color:#285879 ;
@@ -51,9 +65,16 @@ export const ContatoStyle = styled.section `
 input{
         height: 4vh;
         width: 30vh;
-        font-size: 20px;
+        font-size: 16px;
         background-color: #97a5a8;
         display: flex;
         flex-direction: space-around;
+        padding: 20px 50px 20px;
+        margin-top: 20px;
+        border-radius: 10px;
+        border: 0px;
+}
+i{
+        padding: 40px 20px;
 }
 `
