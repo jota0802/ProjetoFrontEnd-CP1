@@ -55,7 +55,7 @@ p{
     justify-content: center;
     padding: 40px;
     text-decoration:none;
-    background-color: #EDEAE3;
+    background-color: #eee6d2;
     border-bottom-left-radius: 20px; 
     border-bottom-right-radius: 20px;
     transition: 0.3s ease-in-out;

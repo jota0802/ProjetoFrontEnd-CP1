@@ -19,12 +19,13 @@ export const HomeStyle = styled.section `
         display: flex;
         justify-content: center;
         font-size: 40px;
-        margin-top: 19vh;
+        margin-top: 20vh;
     }
     .texto{
         display: flex;
         justify-content: center;
         margin-top: 20px;
         color: black;
+        color: #537064;
     }
 `
