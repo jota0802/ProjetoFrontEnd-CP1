@@ -19,7 +19,7 @@ export const HomeStyle = styled.section `
         display: flex;
         justify-content: center;
         font-size: 40px;
-        margin-top: 20vh;
+        margin-top: 22vh;
     }
     .texto{
         display: flex;
