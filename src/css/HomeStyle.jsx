@@ -9,8 +9,8 @@ export const HomeStyle = styled.section `
     h1{
         display:flex;
         justify-content: center;
-        margin-top: 24vh;
-        font-size: 26px;
+        margin-top: 22vh;
+        font-size: 30px;
     }
     h1 i{
         padding-right: 8px;
@@ -19,7 +19,7 @@ export const HomeStyle = styled.section `
         display: flex;
         justify-content: center;
         font-size: 40px;
-        margin-top: 20vh;
+        margin-top: 22vh;
     }
     .texto{
         display: flex;

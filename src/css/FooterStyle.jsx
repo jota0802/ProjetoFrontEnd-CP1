@@ -11,4 +11,12 @@ export const FooterStyle = styled.section `
     color: white;    
 }
 
+i{
+    padding-left:60px;
+    font-size: 20px;
+    color: white;
+}
+a{
+    text-decoration: none;
+}
 `

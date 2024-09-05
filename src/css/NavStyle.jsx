@@ -23,6 +23,7 @@ export const NavStyle = styled.section `
     background-color: #153147;
     list-style: none;
     border-radius: 20px;
+    box-shadow: 8px 8px 20px rgba(0, 0, 0, 0.3);
 }
 
 .navlink{
