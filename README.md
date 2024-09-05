@@ -33,7 +33,7 @@ A aplicação **Sportmax** permite que usuários explorem produtos esportivos or
     - Entre no diretório clonado:
     ```bash
     cd ProjetoFrontEnd-CP1 'ProjetoFrontEnd-CP1'
-3. Entre no link para baixar o `node` em seu dispositivo ──> [Node.js](https://www.alura.com.br/artigos/como-instalar-node-js-windows-linux-macos?utm_term=&utm_campaign=%5BSearch%5D+%5BPerformance%5D+-+Dynamic+Search+Ads+-+Artigos+e+Conte%C3%BAdos&utm_source=adwords&utm_medium=ppc&hsa_acc=7964138385&hsa_cam=11384329873&hsa_grp=164240702375&hsa_ad=703853654617&hsa_src=g&hsa_tgt=aud-527303763294:dsa-2276348409543&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=CjwKCAjwreW2BhBhEiwAavLwfNVHOzlexjTTUPnDOK1oUSiSDQZL30UYUwNkoNcN5H1OFKYOxq9g4xoCtj8QAvD_BwE)
+3. ## Entre no link para baixar o `node` em seu dispositivo ──> [Node.js](https://www.alura.com.br/artigos/como-instalar-node-js-windows-linux-macos?utm_term=&utm_campaign=%5BSearch%5D+%5BPerformance%5D+-+Dynamic+Search+Ads+-+Artigos+e+Conte%C3%BAdos&utm_source=adwords&utm_medium=ppc&hsa_acc=7964138385&hsa_cam=11384329873&hsa_grp=164240702375&hsa_ad=703853654617&hsa_src=g&hsa_tgt=aud-527303763294:dsa-2276348409543&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=CjwKCAjwreW2BhBhEiwAavLwfNVHOzlexjTTUPnDOK1oUSiSDQZL30UYUwNkoNcN5H1OFKYOxq9g4xoCtj8QAvD_BwE)
    - Após baixar o node, você irá instalar a pasta `node_modules` no projeto:
 
     ```bash
