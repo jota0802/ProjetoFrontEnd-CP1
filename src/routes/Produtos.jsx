@@ -34,7 +34,7 @@ const Produtos =()=> {
                 </nav>
                 <nav className="produto">
                     <img src={imagem2} className="imagem" />
-                    <p>Raquete de Tennis PPR130 Outdoor Pongori</p>
+                    <p>Camisa Brasil Azul e Branca Masculina</p>
                     <p className="preco">R$ 190,50</p>
                     <a href="" class='btn'><h2 className="compre">Compre</h2></a>
                 </nav>
