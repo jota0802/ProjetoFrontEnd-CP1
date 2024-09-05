@@ -73,7 +73,6 @@ A aplicação `Sportmax` permite que usuários explorem produtos esportivos orga
 ## Estrutura Usada:
 
     ProjetoFrontEnd-CP1/
-            ├── public/
             ├── src/
             │   ├── components/        # Componentes reutilizáveis da aplicação
             │   ├── pages/             # Páginas principais (Home, Produto Contato, Sobre.)
