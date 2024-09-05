@@ -1,5 +1,6 @@
 
-**Sportmax** é uma aplicação web desenvolvida em React, focada em oferecer uma experiência interativa para a navegação e compra de produtos esportivos. O projeto é baseado em React junto do JavaScript e utiliza o `react-router-dom` para gerenciamento de rotas e o `styled-components` para o desing.
+# <h1>**Sportmax** </h1> 
+É uma aplicação web desenvolvida em `React` em `JS`, focada em oferecer uma experiência interativa para a navegação e compra de produtos esportivos. O projeto é baseado em React utilizando o `react-router-dom` para gerenciamento de rotas e o `styled-components` para o desing das páginas.
 
 ## Índice
 
@@ -13,7 +14,7 @@
 
 ## Visão Geral
 
-A aplicação **Sportmax** permite que usuários explorem produtos esportivos organizados por categorias, visualizem detalhes e façam a compra de itens diretamente pela interface. O projeto visa melhorar a experiência de navegação, aplicando boas práticas de design e desenvolvimento.
+A aplicação `Sportmax` permite que usuários explorem produtos esportivos organizados por categorias, visualizem detalhes e façam a compra de itens diretamente pela interface. O projeto visa melhorar a experiência de navegação, aplicando boas práticas de design e desenvolvimento.
 
 ## Funcionalidades
 
