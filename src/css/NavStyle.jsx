@@ -5,24 +5,28 @@ export const NavStyle = styled.section `
 
 .nav{
     z-index: 2;
-    width: 100%;
+    width: 1800px;
     height: 14vh;
+    display: flex;
     position: fixed;
     background-color: #153147;
     list-style: none;
-    display: flex;
     align-items: center;
     flex-grow: 1;
-    padding: 20px;
+    margin-top: 20px;
+    margin-left: 46px; 
+    border-radius: 20px;
 }
 
 .navlink{
+    display:flex;
+    justify-content: center;
+    margin-left: 230px;
+    padding: 20px;
     text-decoration:none;
-    margin-left: 280px;
     font-size: 20px;
     color:#ffff;
-    transition: 0.3s ease-in-out;
-    justify-content:center;
+    transition: 0.4s ease-in-out;
 }
 
 .navlink:hover{
@@ -30,7 +34,7 @@ export const NavStyle = styled.section `
 }
 
 .Marca{
-    margin-left: 70px;
+    margin-left: 90px;
     font-size: 40px;
     color:#ffff;
 }
