@@ -14,23 +14,23 @@ const Produtos =()=> {
                 </h1>
             <section className="produtos">
                 <nav className="produto">
-                    <img src={imagem1} className="imagem" />
+                    <img src={imagem3} className="imagem" />
                     <p>Bolsa Nike Brasilia Xs Duff 9.5</p>
                     <a href="" class='btn'>Compre</a>
 
                 </nav>
                 <nav className="produto">
-                    <img src={imagem3} className="imagem"/>
+                    <img src={imagem4} className="imagem"/>
                     <p>Raquete Adulto de Tennis TR990 Power Artengo</p>
                     <a href="" class='btn'>Compre</a>
                 </nav>
                 <nav className="produto">
-                    <img src={imagem2} className="imagem" />
+                    <img src={imagem1} className="imagem" />
                     <p>Bola de Tênis Head Pro X 3</p>
                     <a href="" class='btn'>Compre</a>
                 </nav>
                 <nav className="produto">
-                    <img src={imagem4} className="imagem" />
+                    <img src={imagem2} className="imagem" />
                     <p>Raquete de Tennis PPR130 Outdoor Pongori</p>
                     <a href="" class='btn'>Compre</a>
                 </nav>
