@@ -6,6 +6,7 @@ const Nav =()=>{
 
     return(
         <NavStyle>
+            <nav className="cover"></nav>
             <section className="nav">
                 <h1 className="Marca">SportMax</h1>
                 <Link to ='/' className="navlink">Home</Link>

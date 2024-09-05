@@ -2,26 +2,33 @@ import styled from "styled-components"
 
 export const NavStyle = styled.section `
 
+//cover esta sendo usado para fazer um efeito ilusorio do sumiço do scroll
+.cover{
+    display: flex;
+    position: fixed;
+    width:100%;
+    height: 20px;
+    background-color:#ADB8BB ;
+}
 
 .nav{
     z-index: 2;
-    width: 1800px;
-    height: 14vh;
     display: flex;
     position: fixed;
+    width: 190vh;
+    height: 14vh;
+    margin-top: 20px;
+    margin-left: 8vh; 
+    align-items: center;
     background-color: #153147;
     list-style: none;
-    align-items: center;
-    flex-grow: 1;
-    margin-top: 20px;
-    margin-left: 46px; 
     border-radius: 20px;
 }
 
 .navlink{
     display:flex;
     justify-content: center;
-    margin-left: 230px;
+    margin-left: 200px;
     padding: 20px;
     text-decoration:none;
     font-size: 22px;

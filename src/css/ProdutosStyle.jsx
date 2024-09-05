@@ -2,14 +2,14 @@ import styled from "styled-components"
 export const ProdutosStyle = styled.section `
     
     width: 100%;
-    height: 98vh;
+    height: 110vh;
     background-color: #ADB8BB;
 
 h1{
         display:flex;
-        margin-top: 24vh;
+        margin-top: 26vh;
         justify-content: center;
-        font-size: 18px;
+        font-size: 26px;
 }
 h1 i{
         padding-right: 8px;
@@ -18,19 +18,66 @@ h1 i{
 section {
     display: flex;
     justify-content: center;
-    margin: 10vh;
+    margin: 8vh;
+    
     
 }
 .produtos{
-    padding-right:50px;
+    display: flex;
+    justify-content: space-between;
+    padding-right:2vh;
+    
+}
+.produto{
+    margin: 30px;
+    background-color: #232A2F;
+    border-radius: 20px;
+
 }
 
 .imagem{
-    width: 300px;
-    height: 300px;
-    margin:0px 60px 30px 80px ;
+    display: flex;
+    justify-content: center;
+    width: 270px;
+    height: 270px;
+    margin: 50px 50px 30px 50px ;
+
 }
-p{
-    margin-left: 80px;
+p{  
+    margin: 30px 20px 40px 20px;
+    color: white;
+    overflow: visible;
+    text-align: center;
+    font-size: 14px;
+}
+.btn{
+    display: flex;
+    justify-content: center;
+    padding: 40px;
+    text-decoration:none;
+    background-color: #EDEAE3;
+    border-bottom-left-radius: 20px; 
+    border-bottom-right-radius: 20px;
+    transition: 0.3s ease-in-out;
+    color: black;
+}
+
+.btn:hover{
+    background-color: #f9f8f7;
+}
+.btn1{
+    display: flex;
+    justify-content: center;
+    padding: 40px;
+    text-decoration:none;
+    background-color: #EDEAE3;
+    border-bottom-left-radius: 20px; 
+    border-bottom-right-radius: 20px;
+    transition: 0.3s ease-in-out;
+    color: black;
+}
+
+.btn1:hover{
+    background-color: #f9f8f7;
 }
 `
