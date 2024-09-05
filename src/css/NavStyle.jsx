@@ -24,7 +24,7 @@ export const NavStyle = styled.section `
     margin-left: 230px;
     padding: 20px;
     text-decoration:none;
-    font-size: 20px;
+    font-size: 22px;
     color:#ffff;
     transition: 0.4s ease-in-out;
 }

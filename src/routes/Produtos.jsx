@@ -4,7 +4,10 @@ const Produtos =()=> {
     return (
         <ProdutosStyle>
             <section className="Produtos">
-                <h1>Produtos</h1>
+                <h1>
+                <i class="fi fi-br-shopping-bag"></i>
+                    Produtos
+                </h1>
             </section>
 
         </ProdutosStyle>
