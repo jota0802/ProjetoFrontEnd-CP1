@@ -24,30 +24,36 @@ A aplicação **Sportmax** permite que usuários explorem produtos esportivos or
 
 ## Instalação
 
-1. Clone o repositório:
 
+1. Entre no VSCode:
+    - abra o terminal e clone o repositorio:
    ```bash
    git clone https://github.com/jota0802/ProjetoFrontEnd-CP1.git
 2. Navegue até o diretório do projeto:
-
+    - Entre no diretório clonado:
     ```bash
-    cd ProjetoFrontEnd-CP1 //entra na pasta clonada 'ProjetoFrontEnd-CP1'
+    cd ProjetoFrontEnd-CP1 'ProjetoFrontEnd-CP1'
 3. Instale as dependências:
+    - Entre no link para baixar o `node` em seu dispositivo ──> [Node.js](https://www.alura.com.br/artigos/como-instalar-node-js-windows-linux-macos?utm_term=&utm_campaign=%5BSearch%5D+%5BPerformance%5D+-+Dynamic+Search+Ads+-+Artigos+e+Conte%C3%BAdos&utm_source=adwords&utm_medium=ppc&hsa_acc=7964138385&hsa_cam=11384329873&hsa_grp=164240702375&hsa_ad=703853654617&hsa_src=g&hsa_tgt=aud-527303763294:dsa-2276348409543&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=CjwKCAjwreW2BhBhEiwAavLwfNVHOzlexjTTUPnDOK1oUSiSDQZL30UYUwNkoNcN5H1OFKYOxq9g4xoCtj8QAvD_BwE)
 
     ```bash
-     npm install //instala a pasta 'node_modules'
-4. Inicie o projeto:
-
+     npm install
+4. Instalar react-router-dom:  
+    - Baixe a dependencia `react-router-dom`
     ```bash
-    npm run dev //inicia o programa e fornece um 'http://localhost:0000'
-5. Instalar dependencias:
-
+    npm react-router-dom 
+5. Intalar styled-components:
+    - Baixe a dependencia `styled-components`
     ```bash
-    npm react-router-dom //instala adependencia 'react-router-dom' 
-6. Intalar Styled-Components:
-
+    npm install styled-components
+6. Inicie o projeto:
+    - Inicie o `host` em sua maquina local:
     ```bash
-    npm install styled-components //instala o programa 'styled-components'
+    npm run dev
+7. Entre no local host:
+    - Clique no  http://localhost:0000/ exibido, exemplo:
+     ```bash
+     ➜  Local:   http://localhost:5174/ 
 ## Como Usar
 - Na página inicial, você pode navegar e ver os detalhes de nosso site.
 - Utilize o menu para acessar diferentes categorias.
