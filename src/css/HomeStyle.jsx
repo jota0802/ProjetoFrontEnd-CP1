@@ -26,6 +26,5 @@ export const HomeStyle = styled.section `
         justify-content: center;
         margin-top: 20px;
         color: black;
-        color: #537064;
     }
 `
