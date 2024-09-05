@@ -2,14 +2,14 @@ import styled from "styled-components"
 export const ProdutosStyle = styled.section `
     
     width: 100%;
-    height: 110vh;
+    height: 106vh;
     background-color: #ADB8BB;
 
 h1{
         display:flex;
-        margin-top: 26vh;
+        margin-top: 22vh;
         justify-content: center;
-        font-size: 26px;
+        font-size: 30px;
 }
 h1 i{
         padding-right: 8px;
@@ -18,7 +18,7 @@ h1 i{
 section {
     display: flex;
     justify-content: center;
-    margin: 6vh 8vh 8vh 8vh;
+    margin: 8vh;
     
     
 }
