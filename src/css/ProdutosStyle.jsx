@@ -65,19 +65,5 @@ p{
 .btn:hover{
     background-color: #f9f8f7;
 }
-.btn1{
-    display: flex;
-    justify-content: center;
-    padding: 40px;
-    text-decoration:none;
-    background-color: #EDEAE3;
-    border-bottom-left-radius: 20px; 
-    border-bottom-right-radius: 20px;
-    transition: 0.3s ease-in-out;
-    color: black;
-}
 
-.btn1:hover{
-    background-color: #f9f8f7;
-}
 `

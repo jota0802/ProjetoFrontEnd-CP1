@@ -16,7 +16,7 @@ const Produtos =()=> {
                 <nav className="produto">
                     <img src={imagem1} className="imagem" />
                     <p>Bolsa Nike Brasilia Xs Duff 9.5</p>
-                    <a href="" class='btn1'>Compre</a>
+                    <a href="" class='btn'>Compre</a>
 
                 </nav>
                 <nav className="produto">
@@ -27,7 +27,7 @@ const Produtos =()=> {
                 <nav className="produto">
                     <img src={imagem2} className="imagem" />
                     <p>Bola de Tênis Head Pro X 3</p>
-                    <a href="" class='btn1'>Compre</a>
+                    <a href="" class='btn'>Compre</a>
                 </nav>
                 <nav className="produto">
                     <img src={imagem4} className="imagem" />
