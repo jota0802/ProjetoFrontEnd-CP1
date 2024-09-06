@@ -81,4 +81,7 @@ h2{
     scale: 1.03;
     font-weight: 900;
 }
+a{
+    text-decoration: none;
+}
 `

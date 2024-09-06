@@ -2,7 +2,7 @@ import styled from "styled-components"
 
 export const ContatoStyle = styled.section `
         width: 100%;
-        height: 98vh;
+        height: 100vh;
         background-color: #ADB8BB;
 
 section{
