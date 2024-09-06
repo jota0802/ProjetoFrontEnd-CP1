@@ -68,10 +68,10 @@ h2{
     justify-content: center;
     padding: 30px;
     text-decoration:none;
-    background-color: #eee6d2;
+    background-color: #285879 ;
     border-bottom-left-radius: 20px; 
     border-bottom-right-radius: 20px;
-    transition: 0.2s ease-in-out;
+    transition: 0.4s ease-in-out;
     color: black;
 }
 .btn:hover{

@@ -22,8 +22,12 @@ h1 {
         justify-content: center;
         padding-right: 6vh;
 }
+p{
+        margin: 10px 28px;
+}
 i{
         font-size: 30px;
+        padding: 40px 20px;
 }
 .Contato_box{
         display: flex;
@@ -54,27 +58,29 @@ label{
         display: flex;
         justify-content: center;
         align-items: center;
-        padding: 6px;
+        padding: 10px;
         border-radius: 5px ;
         font-size: 20px;
         background-color:#285879 ;
         border-style: none;
         color: white;
+        transition: 0.3s ease-in-out;
+}
+.Button:hover{
+        background-color:#ffffff ;
+        color: black;
 }
 
 input{
         height: 4vh;
-        width: 30vh;
+        width: 40vh;
         font-size: 16px;
         background-color: #97a5a8;
         display: flex;
         flex-direction: space-around;
-        padding: 20px 50px 20px;
+        padding: 20px 100px 20px;
         margin-top: 20px;
         border-radius: 10px;
         border: 0px;
-}
-i{
-        padding: 40px 20px;
 }
 `

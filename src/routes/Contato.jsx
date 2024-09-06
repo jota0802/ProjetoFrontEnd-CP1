@@ -28,7 +28,7 @@ const Contato =()=>{
 
                         <label>
                             <p>
-                            <i class="fi fi-rr-user"></i>
+                                <i class="fi fi-rr-user"></i>
                                 Nome
                             </p>
                             <input type="text" placeholder="Digite seu nome" id="idNome" />
@@ -36,7 +36,7 @@ const Contato =()=>{
 
                         <label>
                             <p>
-                            <i class="fi fi-rr-envelope"></i>
+                                <i class="fi fi-rr-envelope"></i>
                                 E-mail
                             </p>
                             <input type="text" placeholder="Digite seu e-mail" id="idEmail" />
@@ -47,7 +47,7 @@ const Contato =()=>{
                                 <i class="fi fi-rr-phone-call"></i>
                                 Telefone
                             </p>
-                            <input type="number" placeholder="Digite seu telefone" id="idTelefone" />
+                            <input type="text" placeholder="Digite seu telefone" id="idTelefone" />
                         </label>
 
                         </form>
