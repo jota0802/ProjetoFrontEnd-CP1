@@ -33,16 +33,12 @@ export const NavStyle = styled.section `
     margin-left: 0vw;
     padding-top: calc(1vh + 10px);
     padding-bottom: calc(1vh + 10px);
-    margin-left: calc(10vw + 8px);
+    margin-left: clamp(8px,8vw,18vw);
     text-decoration:none;
-    font-size: clamp(12px , 1.4vw, 26px);
+    font-size: clamp(8px , 1.4vw, 26px);
     color:#ffff;
     transition: 0.4s ease-in-out;
 }
-
-//font-size: clamp(16px, 5vw, 24px);
-//padding: calc(2vw + 10px); /* Padding que aumenta com a largura da viewport mas nunca fica menor que 10px */
-//margin: calc(2vw + 10px);  /* Margin que aumenta com a largura da viewport mas nunca fica menor que 10px */
 
 .navlink:hover{
     scale: 1.1;
@@ -50,7 +46,7 @@ export const NavStyle = styled.section `
 
 .Marca{
     margin-left: 4vw;
-    font-size: 2.6vw;
+    font-size: clamp(0px,2.6vw, 3vw);
     color:#ffff;
 }
 

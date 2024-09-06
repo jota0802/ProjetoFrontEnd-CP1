@@ -3,14 +3,14 @@ import styled from "styled-components"
 export const HomeStyle = styled.section `
     
     width: 100%;
-    height: calc(72vh + 200px);
+    height: clamp(400px, 100vh, 1500px);
     background-color: #ADB8BB;
 
     h1{
         display:flex;
         justify-content: center;
-        margin-top: 26vh;
-        font-size: clamp(30px,2vw,35px);
+        margin-top: clamp(80px, 28vh, 300px);
+        font-size: clamp(16px,2vw,40px);
     }
     h1 i{
         padding-right: 1vh;
@@ -18,16 +18,18 @@ export const HomeStyle = styled.section `
     .bem-vindo{
         display: flex;
         justify-content: center;
-        font-size: clamp(36px,3vw,54px);
-        margin-top: calc(4vh + 100px);
+        font-size: clamp(20px,3vw,54px);
+        margin-top: clamp(40px,14vh, 16vh);
         font-weight: 700;
+        overflow: auto;
+        padding: 2vw 4vw;
     }
     .texto{
         display: flex;
         justify-content: center;
         color: black; 
-        padding: 2vw;
+        padding: 2vw 4vw;
         font-weight: 400;
-        font-size: clamp(24px,1.8vw,40px);
+        font-size: clamp(12px,1.8vw,40px);
     }
 `

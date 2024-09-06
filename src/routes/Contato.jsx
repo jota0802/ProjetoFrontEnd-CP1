@@ -18,7 +18,7 @@ const Contato =()=>{
         <ContatoStyle>
                 <h1 className='Contato_titulo'>
                 <i class="fi fi-br-address-book"></i>
-                    Nos contate aqui !
+                    Contato
                 </h1>
             <section>
                 <div className='Contato_titulo'></div>
