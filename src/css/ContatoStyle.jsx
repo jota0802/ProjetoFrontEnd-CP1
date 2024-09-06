@@ -14,7 +14,7 @@ section{
         align-items: center;
         justify-content: center;
         margin-top: 18vh;
-        font-size: 30px;
+        font-size: 3.2vh;
 }
 h1 {
         display: flex;
@@ -23,11 +23,11 @@ h1 {
         padding-right: 6vh;
 }
 p{
-        margin: 10px 28px;
+        margin: 1.2vh 3vh;
 }
 i{
-        font-size: 30px;
-        padding: 40px 20px;
+        font-size: 3.2vh;
+        padding: 4.4vh 2vh;
 }
 .Contato_box{
         display: flex;
@@ -38,9 +38,9 @@ i{
         height: 60vh;
         margin-top: 2vh;
         background-color: #153147;
-        color: #ffffff;
-        border-radius: 20px;
-        box-shadow: 8px 8px 20px rgba(0, 0, 0, 0.3);
+        color: white;
+        border-radius: 2vh;
+        box-shadow: 1vh 1vh 2vh rgba(0, 0, 0, 0.3);
 }
 
 .Formulario{
@@ -50,37 +50,42 @@ i{
         font-size: 3vh;
 }
 label{
-        padding: 20px;
+        padding: 2vh;
 }
 
 .Button{
-        margin-top: 24px;
+        margin-top: 2.8vh;
         display: flex;
         justify-content: center;
         align-items: center;
-        padding: 10px;
-        border-radius: 5px ;
-        font-size: 20px;
+        padding: 1vh;
+        border-radius: 0.6vh ;
+        font-size: 2vh;
         background-color:#285879 ;
         border-style: none;
         color: white;
         transition: 0.3s ease-in-out;
 }
 .Button:hover{
-        background-color:#ffffff ;
+        scale: 1.1;
+        background-color: white ;
         color: black;
 }
 
 input{
         height: 4vh;
         width: 40vh;
-        font-size: 16px;
+        font-size: 1.8vh;
         background-color: #97a5a8;
         display: flex;
         flex-direction: space-around;
-        padding: 20px 100px 20px;
-        margin-top: 20px;
-        border-radius: 10px;
-        border: 0px;
+        padding: 2vh 12vh 2vh;
+        margin-top: 2vh;
+        border-radius: 1vh;
+        border: 0vh;
+        transition: 0.4s ease-in-out;
+}
+input:focus{
+        scale: 1.03
 }
 `

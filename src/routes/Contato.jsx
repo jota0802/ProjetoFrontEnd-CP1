@@ -13,7 +13,6 @@ function enviar(){
     }
 }
 
-
 const Contato =()=>{
     return(
         <ContatoStyle>
@@ -31,7 +30,7 @@ const Contato =()=>{
                                 <i class="fi fi-rr-user"></i>
                                 Nome
                             </p>
-                            <input type="text" placeholder="Digite seu nome" id="idNome" />
+                            <input type="text" placeholder="Digite seu nome" id="idNome"  />
                         </label>
 
                         <label>
@@ -39,7 +38,7 @@ const Contato =()=>{
                                 <i class="fi fi-rr-envelope"></i>
                                 E-mail
                             </p>
-                            <input type="text" placeholder="Digite seu e-mail" id="idEmail" />
+                            <input type="text" placeholder="Digite seu e-mail" id="idEmail"  />
                         </label>
 
                         <label>
@@ -47,7 +46,7 @@ const Contato =()=>{
                                 <i class="fi fi-rr-phone-call"></i>
                                 Telefone
                             </p>
-                            <input type="text" placeholder="Digite seu telefone" id="idTelefone" />
+                            <input type="text" placeholder="Digite seu telefone" id="idTelefone"  />
                         </label>
 
                         </form>

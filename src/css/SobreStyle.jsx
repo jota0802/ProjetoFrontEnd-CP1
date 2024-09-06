@@ -2,10 +2,10 @@ import styled from "styled-components"
 
 export const SobreStyle = styled.section `
     width: 100%;
-    height: 90vh;
+    height: 100vh;
     background-color: #ADB8BB;
 .Sobre{ 
-    margin-top: 18vh;
+    margin-top: 22vh;
     text-align: center;
     padding: 2vh 18vh ;
 }
