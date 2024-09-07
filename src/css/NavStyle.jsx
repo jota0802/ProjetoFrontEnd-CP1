@@ -12,14 +12,14 @@ export const NavStyle = styled.section `
 }
 
 .nav{
-    width: 90vw;
+    width: 92vw;
     height: calc(5vw + 40px);
     z-index: 2;
     display: flex;
     text-align: center;
     position: fixed;
     margin-top: 2vh;
-    margin-left: 4vw; 
+    margin-left: 2.6vw; 
     align-items: center;
     background-color: #153147;
     list-style: none;
@@ -31,9 +31,9 @@ export const NavStyle = styled.section `
     display:flex;
     justify-content: center;
     margin-left: 0vw;
-    padding-top: calc(1vh + 10px);
-    padding-bottom: calc(1vh + 10px);
-    margin-left: clamp(8px,8vw,18vw);
+    padding-top: calc(2vh + 10px);
+    padding-bottom: calc(2vh + 10px);
+    margin-left: clamp(10px,8vw,18vw);
     text-decoration:none;
     font-size: clamp(8px , 1.4vw, 26px);
     color:#ffff;

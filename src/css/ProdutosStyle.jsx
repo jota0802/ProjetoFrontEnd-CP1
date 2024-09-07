@@ -23,14 +23,15 @@ export const ProdutosStyle = styled.section`
 
   .produtos {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
-    padding-right: 2vw;
     flex-wrap: wrap; /* Permite que os itens "quebrem" de linha em telas menores */
     margin-bottom: 10vh;
   }
 
   .produto {
+    display: flex;
+    flex-direction: column;
     margin: 2vw;
     background-color: #232a2f;
     border-radius: 1vw;
