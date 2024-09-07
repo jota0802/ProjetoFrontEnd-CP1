@@ -1,6 +1,8 @@
 
 # <h1 align="center">**Sportmax**</h1> 
-É uma aplicação web desenvolvida em `React` em `JS`, focada em oferecer uma experiência interativa para a navegação e compra de produtos esportivos. O projeto é baseado em React utilizando o `react-router-dom` para gerenciamento de rotas e o `styled-components` para o desing das páginas.
+A aplicação web é desenvolvida utilizando React, uma biblioteca JavaScript poderosa para criar interfaces de usuário dinâmicas e interativas. O projeto se concentra em oferecer uma experiência fluida e envolvente para a navegação e compra de produtos esportivos. Para gerenciar a navegação entre as diferentes páginas e seções da aplicação, é utilizado o react-router-dom, uma solução robusta que permite a criação de rotas e a navegação condicional entre componentes.
+
+Além disso, o design da aplicação é aprimorado com o uso do styled-components, uma biblioteca que permite a estilização de componentes React utilizando a sintaxe de CSS-in-JS. Isso facilita a criação de um layout visualmente atraente e responsivo, garantindo que a experiência do usuário seja tanto funcional quanto esteticamente agradável. A combinação dessas tecnologias permite uma interface intuitiva e personalizável, ideal para apresentar e vender produtos esportivos de maneira eficiente e envolvente.
 
 ----------
 
