@@ -1,6 +1,8 @@
 
-# <h1>**Sportmax** </h1> 
+# <h1 align="center">**Sportmax**</h1> 
 É uma aplicação web desenvolvida em `React` em `JS`, focada em oferecer uma experiência interativa para a navegação e compra de produtos esportivos. O projeto é baseado em React utilizando o `react-router-dom` para gerenciamento de rotas e o `styled-components` para o desing das páginas.
+
+----------
 
 ## Índice
 
@@ -23,7 +25,9 @@ A aplicação `Sportmax` permite que usuários explorem produtos esportivos orga
 - **Página sobre nossa empresa**:  com descrições da empresa.
 - **Página de contato**: tem uma aba para colocar seus dados para entrarmos em contato.
 
-## Instalação
+# <h1 align="center">Instalação</h1>
+
+--------
 
 
 1. ## Entre no VSCode:
@@ -87,7 +91,9 @@ A aplicação `Sportmax` permite que usuários explorem produtos esportivos orga
             ├─── README.md
             └─── vite.config.js
 
-## Desenvolvedores
+# <h1 align="center">Desenvolvidores</h1>
+
+-------
 
 | Dev | Avatar | RM |
 | ------------- | ------ | ----- |
