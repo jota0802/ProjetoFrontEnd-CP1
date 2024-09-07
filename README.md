@@ -42,7 +42,7 @@ A aplicação `Sportmax` permite que usuários explorem produtos esportivos orga
 4. ## Instalar react-router-dom:  
     - Baixe a dependencia `react-router-dom`:
     ```bash
-    npm react-router-dom 
+    npm install react-router-dom 
 5. ## Intalar styled-components:
     - Baixe a dependencia `styled-components`:
     ```bash
