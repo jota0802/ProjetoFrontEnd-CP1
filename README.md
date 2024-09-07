@@ -64,7 +64,7 @@ A aplicação `Sportmax` permite que usuários explorem produtos esportivos orga
 - Utilize o menu para acessar diferentes categorias.
 - Clique no botão comprar pra entrar em contato conosco.
 
-## Tecnologias Utilizadas:
+## Linguagens Utilizadas:
 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="70" style="padding:20px 5px"/> <h1>React</h1>
